@@ -1,0 +1,8 @@
+GameProject {
+ ID "AntiInfantryRockets"
+ GUID "65D07A1BE5E4DC3A"
+ TITLE "Anti Infantry Rockets"
+ Dependencies {
+  "58D0FB3206B6F859"
+ }
+}
